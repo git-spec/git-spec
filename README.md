@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git-spec
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Next.js and Symfony
+- 🌱 I’m currently learning Java and React
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...
 
